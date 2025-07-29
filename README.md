@@ -15,9 +15,16 @@ Split group expenses seamlessly and keep track of who owes what—perfect for tr
 Visualize your spending patterns, identify trends, and gain meaningful insights to make informed financial decisions.
 
 ![features](https://github.com/user-attachments/assets/d543305b-ac92-4bdc-b0c8-53d8e7d4de25)
+
+Home:
 ![home](https://github.com/user-attachments/assets/7da7fc49-2f4c-4915-a8b6-f7cf5a7b336c)
+
+Dashboard:
 ![dashboard](https://github.com/user-attachments/assets/ee08a7ec-e759-4caf-bf9a-da3838e94e1c)
 
+Split Bills:
 ![splitBills](https://github.com/user-attachments/assets/ee800e67-33a8-4eaa-8848-617dcb730e44)
+
+Activity Log:
 ![activityLog](https://github.com/user-attachments/assets/f0950f35-c0ad-4723-89b1-b0ede7717d8a)
 
