@@ -13,7 +13,7 @@ module.exports = async (req, res, next) => {
     const user = await User.findById(decoded.id);
     if (!user) return res.status(404).json({ error: 'User not found' });
 
-    req.user = user; // 💡 This is where user._id becomes accessible
+    req.user = user; //  This is where user._id becomes accessible
     next();
   } catch (err) {
     return res.status(403).json({ error: 'Unauthorized' });
